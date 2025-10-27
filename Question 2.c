@@ -1,4 +1,3 @@
-
 // A c program to convert the lower case character of a string into uppercase.
 
 #include <stdio.h>
